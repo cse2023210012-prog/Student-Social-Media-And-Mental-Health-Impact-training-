@@ -1,1 +1,8 @@
-
+All libraries we used:
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+ipywidgets
