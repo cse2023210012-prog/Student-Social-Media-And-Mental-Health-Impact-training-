@@ -1,4 +1,4 @@
-All libraries we used:
+The libraries we used:
 pandas
 numpy
 scikit-learn
