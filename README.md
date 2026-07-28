@@ -1,5 +1,5 @@
 # Student-Social-Media-And-Mental-Health-Impact-training-
-# 📊 Student Social Media & Mental Health Impact Analysis
+# Student Social Media & Mental Health Impact Analysis
 
 ## 📌 Project Overview
 This project applies Machine Learning techniques to investigate and predict student mental health risk levels based on daily habits, social media usage, and sleep patterns. 
